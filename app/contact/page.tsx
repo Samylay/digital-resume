@@ -1,3 +1,4 @@
+"use client";
 import { Navigation } from "@/Components/Navigation";
 import Particles from "@/Components/particles";
 import React from "react";

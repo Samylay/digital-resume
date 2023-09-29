@@ -1,3 +1,4 @@
+"use client";
 import Card from "@/Components/Card";
 import { Navigation } from "@/Components/Navigation";
 import Particles from "@/Components/particles";
@@ -16,11 +17,11 @@ function page({}: Props) {
       <div>
         <div className="text-center md:mt-12 mt-20 lg:mt-24">
           <header>
-            <h1 className="text-4xl md:text-5xl">Contact Me!</h1>
+            <h1 className="text-4xl md:text-5xl">Projects</h1>
           </header>
           <br />
         </div>
-        <Card />
+        {/* <Card /> */}
       </div>
       <footer>
         <p>&copy; 2023 Layaida Samy</p>

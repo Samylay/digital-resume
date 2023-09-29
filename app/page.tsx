@@ -1,3 +1,4 @@
+"use client";
 import Socials from "@/Components/Socials";
 import Particles from "../Components/particles";
 import Link from "next/link";

@@ -1,11 +1,10 @@
-import React from 'react'
+"use client";
+import React from "react";
 
-type Props = {}
+type Props = {};
 
 function Card({}: Props) {
-  return (
-    <div>Card</div>
-  )
+  return <div>Card</div>;
 }
 
-export default Card
+export default Card;
