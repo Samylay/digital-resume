@@ -1,9 +1,6 @@
 import Card from "@/Components/Card";
-import Projects from "@/Components/Projects";
 import { Navigation } from "@/Components/Navigation";
 import Particles from "@/Components/particles";
-
-import Link from "next/link";
 import React from "react";
 
 type Props = {};

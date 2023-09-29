@@ -1,7 +1,5 @@
-import Socials from "@/Components/Socials";
 import { Navigation } from "@/Components/Navigation";
 import Particles from "@/Components/particles";
-import Link from "next/link";
 import React from "react";
 
 type Props = {};
